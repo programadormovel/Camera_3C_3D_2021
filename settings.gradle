@@ -1,0 +1,2 @@
+rootProject.name = "Camera_3C_3D_2021"
+include ':app'
